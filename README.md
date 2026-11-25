@@ -38,8 +38,5 @@ What motivates me to learn new technologies is curiosity and the joy of learning
 ## My GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=chamisaw&theme=dawnfox)](https://git.io/streak-stats)
 
-## 📊 My GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=chamisaw&show_icons=true&theme=radical)
 
 
